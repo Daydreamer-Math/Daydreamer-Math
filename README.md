@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm an undergraduate student majoring in Statistics. My research interests lie in statistical learning, high-dimensional statistics, and related areas. I'm passionate about developing robust, efficient, and practical statistical methods to solve real-world problems. (And yes, elegant, rigorous statistical theory always fascinates me!)
+
+Recently, I've been diving into causal inference and reading lots of literature. It's been a great way to get familiar with the analytical approaches. One thing that surprised me is how similar the underlying rationale is across many of these papers.
+
+I also have to admit that AI has been a massive help in my workflow — from summarizing papers and writing LaTeX code to generating PowerPoint slides. By leveraging AI flexibly, I get to spend much more time exploring things I enjoy. This workflow has brought me a lot, and I'll definitely keep it up!
